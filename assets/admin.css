@@ -1,0 +1,86 @@
+/* Checkout-Felder – Admin-Styles */
+
+.ckf-wrap h1 {
+	margin-bottom: 0;
+}
+
+.ckf-wrap .nav-tab-wrapper {
+	margin-bottom: 16px;
+}
+
+/* Feldtabelle */
+.ckf-fields-table {
+	margin-bottom: 24px;
+}
+
+.ckf-fields-table .ckf-col-enabled,
+.ckf-fields-table .ckf-col-required {
+	width: 60px;
+	text-align: center;
+}
+
+.ckf-fields-table .ckf-col-key {
+	width: 180px;
+}
+
+.ckf-fields-table .ckf-col-type {
+	width: 120px;
+}
+
+.ckf-fields-table .ckf-col-position {
+	width: 80px;
+}
+
+.ckf-fields-table .ckf-col-actions {
+	width: 120px;
+}
+
+.ckf-fields-table td {
+	vertical-align: middle;
+}
+
+.ckf-wc-field-badge {
+	font-size: 11px;
+	color: #646970;
+	background: #f0f0f1;
+	padding: 2px 6px;
+	border-radius: 3px;
+}
+
+/* "Feld hinzufügen"-Zeile */
+.ckf-add-field-row td {
+	background: #f6f7f7;
+	padding: 10px 12px;
+}
+
+.ckf-add-field-row .regular-text {
+	width: 200px;
+	margin-right: 8px;
+}
+
+.ckf-add-field-row select {
+	margin-right: 8px;
+}
+
+/* Pro-Teaser */
+.ckf-pro-features {
+	list-style: none;
+	margin: 8px 0 16px;
+	padding: 0;
+}
+
+.ckf-pro-features li {
+	margin-bottom: 8px;
+}
+
+.ckf-pro-features .dashicons {
+	color: #2271b1;
+	margin-right: 6px;
+	vertical-align: middle;
+}
+
+/* Pro-Settings-Box */
+.ckf-pro-settings ul {
+	list-style: disc;
+	padding-left: 20px;
+}

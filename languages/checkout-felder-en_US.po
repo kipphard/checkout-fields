@@ -1,0 +1,169 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: checkout-felder 0.1.0\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: includes/class-admin.php:33 includes/class-admin.php:34
+#: includes/class-admin.php:133 includes/class-admin.php:138
+#: includes/class-plugin.php:85
+msgid "Checkout-Felder"
+msgstr "Checkout Fields"
+
+#: includes/class-admin.php:134
+msgid "Einstellungen"
+msgstr "Settings"
+
+#: includes/class-admin.php:142
+msgid "Einstellungen gespeichert."
+msgstr "Settings saved."
+
+#: includes/class-admin.php:174
+msgid "Rechnung"
+msgstr "Billing"
+
+#: includes/class-admin.php:175
+msgid "Versand"
+msgstr "Shipping"
+
+#: includes/class-admin.php:176
+msgid "Zusätzlich"
+msgstr "Additional"
+
+#: includes/class-admin.php:189
+msgid "Aktiv"
+msgstr "Active"
+
+#: includes/class-admin.php:190
+msgid "Schlüssel"
+msgstr "Key"
+
+#: includes/class-admin.php:191 includes/class-admin.php:272
+#: includes/class-admin.php:275
+msgid "Bezeichnung"
+msgstr "Label"
+
+#: includes/class-admin.php:192
+msgid "Platzhalter"
+msgstr "Placeholder"
+
+#: includes/class-admin.php:193 includes/class-admin.php:276
+msgid "Typ"
+msgstr "Type"
+
+#: includes/class-admin.php:194
+msgid "Pflicht"
+msgstr "Required"
+
+#: includes/class-admin.php:195
+msgid "Position"
+msgstr "Position"
+
+#: includes/class-admin.php:196
+msgid "Aktionen"
+msgstr "Actions"
+
+#: includes/class-admin.php:259
+msgid "Entfernen"
+msgstr "Remove"
+
+#: includes/class-admin.php:262
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: includes/class-admin.php:271
+msgid "Neues Feld hinzufügen:"
+msgstr "Add new field:"
+
+#: includes/class-admin.php:284
+msgid "+ Feld hinzufügen"
+msgstr "+ Add field"
+
+#: includes/class-admin.php:292
+msgid "Felder speichern"
+msgstr "Save fields"
+
+#: includes/class-admin.php:314
+msgid "Felder anzeigen"
+msgstr "Show fields"
+
+#: includes/class-admin.php:319
+msgid "In Bestell-E-Mails anzeigen"
+msgstr "Show in order emails"
+
+#: includes/class-admin.php:324
+msgid "In Admin-Bestellansicht anzeigen"
+msgstr "Show in admin order view"
+
+#: includes/class-admin.php:331
+msgid "Einstellungen speichern"
+msgstr "Save settings"
+
+#: includes/class-admin.php:338
+msgid "Pro-Funktionen"
+msgstr "Pro features"
+
+#: includes/class-admin.php:339
+msgid "Checkout-Felder Pro ist aktiv."
+msgstr "Checkout Fields Pro is active."
+
+#: includes/class-admin.php:341 includes/class-admin.php:355
+msgid "Erweiterte Feldtypen: Select, Checkbox, Radio, Datum, Zahl"
+msgstr "Advanced field types: Select, Checkbox, Radio, Date, Number"
+
+#: includes/class-admin.php:342
+msgid "Bedingte Logik: Felder ein-/ausblenden basierend auf anderen Feldwerten"
+msgstr "Conditional logic: show/hide fields based on other field values"
+
+#: includes/class-admin.php:350
+msgid "Checkout-Felder Pro"
+msgstr "Checkout Fields Pro"
+
+#: includes/class-admin.php:351
+msgid "Erweitere den Checkout-Editor mit professionellen Funktionen:"
+msgstr "Extend the checkout editor with professional features:"
+
+#: includes/class-admin.php:359
+msgid "Bedingte Logik: Felder dynamisch ein-/ausblenden"
+msgstr "Conditional logic: dynamically show/hide fields"
+
+#: includes/class-admin.php:364
+msgid "Jetzt upgraden"
+msgstr "Upgrade now"
+
+#: includes/class-checkout.php:114
+#, php-format
+msgid "%s ist ein Pflichtfeld."
+msgstr "%s is a required field."
+
+#: includes/class-checkout.php:164
+msgid "Zusätzliche Felder"
+msgstr "Additional fields"
+
+#: includes/class-helpers.php:94
+msgid "Keine Berechtigung."
+msgstr "Insufficient permissions."
+
+#: includes/class-plugin.php:86
+msgid ""
+"WooCommerce muss installiert und aktiviert sein, damit dieses Plugin "
+"funktioniert."
+msgstr ""
+"WooCommerce must be installed and activated for this plugin to work."
+
+#: includes/class-pro-fields.php:70
+msgid "Pflichtfeld"
+msgstr "Required field"
+
+#: includes/class-pro-fields.php:80
+msgid "— Bitte wählen —"
+msgstr "— Please select —"
