@@ -13,7 +13,7 @@
       "step": "installPlugin",
       "pluginData": {
         "resource": "url",
-        "url": "https://github.com/kipphard/checkout-fields/releases/download/v0.2.0/checkout-fields-0.2.0.zip"
+        "url": "https://github.com/kipphard/checkout-fields/releases/download/v0.3.0/checkout-fields-0.3.0.zip"
       },
       "options": { "activate": true }
     },
